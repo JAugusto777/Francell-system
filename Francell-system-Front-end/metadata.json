@@ -1,0 +1,5 @@
+{
+  "name": "Kanban Service Management",
+  "description": "A Kanban board application to manage service orders for a technical assistance shop, allowing users to drag and drop service orders between different status columns.",
+  "requestFramePermissions": []
+}
